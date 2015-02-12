@@ -18,7 +18,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.2.1",
-    "hubot-standup-alarm": "0.0.3",
+    "hubot-standup-alarm": "hubot-scripts/hubot-standup-alarm#2d18671af6c7221053fe5adab278d788efe8b691",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
